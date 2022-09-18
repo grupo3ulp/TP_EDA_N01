@@ -1,0 +1,3 @@
+D:/Documentos/ULP/2do Cuatrimestre/EDA/Proyectos/TP 1/cmake-build-debug/CMakeFiles/TP_1.dir
+D:/Documentos/ULP/2do Cuatrimestre/EDA/Proyectos/TP 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/ULP/2do Cuatrimestre/EDA/Proyectos/TP 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
